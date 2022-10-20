@@ -1,0 +1,18 @@
+YSA 
+* İnsan beyninin bilgi işleme şeklini referans alan sınıflandırma ve regresyon problemleri için kullanılabilen kuvvetli makine öğrenmesi algoritmalarından birisidir.
+* Amaç en küçük hata ile tahmin yapabilecek katsayılara erişmektir.
+
+BİYOLOJİK NÖRON:
+* Dentritin görevi gelen sinyalleri somaya iletmektir.
+* Somanın görevi dentritlerden gelen bilgileri toplamaktır.
+* Aksonun görevi toplanan bilgileri hücrelere iletmek için aktarım yapar.
+* Sinapsisin görevi bilgileri dönüşüme uğratmaktır ve daha sonra bilgileri hücrelere iletmektir.
+
+YSA'nın Gerçekleştirme Basamakları:
+* Örnek veri seti toplanır.
+* Ağın topolojik yapısına karar verilir.
+* Ağda bulunan ağırlıklara başlangıç değerleri atanır.
+* Örnek veri seti ağa sunulur.
+* İleri hesaplama işlemleri yapılır.
+* Gerçek çıktılar ile tahmin çıktıları karşılaştırılır. Öğrenmenin tamamlanması basamakları gerçekleştirilir.
+
