@@ -1,0 +1,12 @@
+Gözlemlerin birbirine olan benzerlikleri üzerinden tahmin yapılır.
+Sınıflandırma veya regresyon problemleri için kullanılabilir.
+Parametrik olmayan bir öğrenme türüdür.
+Anlaşılması kolaydır.
+Basit, kolay uygulanabilir.
+
+KNN'in hesaplama basamakları:
+* Komşu sayısını belirle.
+* Bilinmeyen nokta ile diğer tüm noktalar arasındaki uzaklıkları hesapla.
+* Uzaklıkları sırala ve belirlenen k sayısına göre en yakın olan k gözlemini seç.
+* Sınıflandırma ise en sık sınıf, regresyon ise ortalama değeri tahmin değer olarak ver.
+
