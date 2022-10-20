@@ -1,3 +1,4 @@
+KNN (K-Nearest-Neighbors)
 Gözlemlerin birbirine olan benzerlikleri üzerinden tahmin yapılır.
 Sınıflandırma veya regresyon problemleri için kullanılabilir.
 Parametrik olmayan bir öğrenme türüdür.

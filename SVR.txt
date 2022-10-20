@@ -1,0 +1,5 @@
+Support Vektor Regression (Destek Vektör Regresyonu)
+* Güçlü ve esnek modelleme tekniklerinden birisidir.
+* Sınıflandırma ve Regresyon için kullanılabilir.
+* Robust(dayanıklı) bir regresyon modelleme tekniğidir.
+
